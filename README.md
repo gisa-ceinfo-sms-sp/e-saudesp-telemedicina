@@ -12,3 +12,5 @@ Contato para suporte técnico: suporte.esaudesp@getconnect.com.br
 Mais informações: https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/atencao_basica/index.php?p=299693
 
 ![image](https://github.com/gisa-ceinfo-sms-sp/e-saudesp-telemedicina/assets/75272641/1ddbd5f8-a4d1-46c3-8503-0c09b177db11)
+
+![image](https://github.com/gisa-ceinfo-sms-sp/e-saudesp-telemedicina/assets/75272641/94a47888-d1b3-4db1-ac49-bea95bcd66a5)
